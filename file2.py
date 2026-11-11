@@ -1,0 +1,7 @@
+print(monitha)
+print(clg=alvas)
+print(age=19)
+print(city=shivmogga)
+print(study=engineering)
+print(manglore)
+print(moodbidre)
